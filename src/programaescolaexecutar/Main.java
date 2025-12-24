@@ -8,7 +8,7 @@ public class Main {
 
         Disciplina disciplina1 = new Disciplina();
         disciplina1.setNome("Geografia");
-        disciplina1.setCargaHoraria(0);
+        disciplina1.setCargaHoraria(2);
 
         System.out.println(disciplina1.getNome());
         System.out.println(disciplina1.getCargaHoraria());
